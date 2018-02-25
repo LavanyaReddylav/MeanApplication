@@ -1,0 +1,42 @@
+#p1{
+    color:black;
+    height: 50px;
+    font-size:20px;
+    width:200px;
+    
+    background-color: peru;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-style: none;
+    text-decoration-line: none;
+   
+}
+#p2{
+    color:black;
+    height: 50px;
+    font-size:20px;
+    width:200px;
+    margin-left:300px;
+    background-color: peru;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-style: none;
+    text-decoration-line: none;
+    
+}
+#p3{
+    color:black;
+    height: 50px;
+    font-size:20px;
+    width:200px;
+    margin-left:300px;
+    background-color: peru;
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-style: none;
+    text-decoration-line: none;
+    
+}
+.nav-tabs{
+  margin-left:200px;
+  }
